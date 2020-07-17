@@ -1,0 +1,3 @@
+D:\workspace\INVENTOR\RenameDesign\RenameDesign\obj\Release\RenameFiles.exe
+D:\workspace\INVENTOR\RenameDesign\RenameDesign\obj\Release\RenameFiles.xml
+D:\workspace\INVENTOR\RenameDesign\RenameDesign\obj\Release\RenameFiles.pdb
