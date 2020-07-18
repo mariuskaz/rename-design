@@ -1,2 +1,2 @@
 # rename-design
-Rename Autodesk Inventor files with new properties.
+Rename Autodesk Inventor assembly files and properties.
